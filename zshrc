@@ -22,6 +22,4 @@ fi
 unset __conda_setup
 # <<< conda initialize <<<
 
-export icloud="/Users/bacchusjackson/Library/Mobile Documents/com~apple~CloudDocs"
-
 source activate py38
